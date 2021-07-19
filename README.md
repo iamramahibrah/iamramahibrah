@@ -34,3 +34,11 @@ Here are some ideas to get you started:
 - 💼 My Resume
 - ✉️ iamramahibrah@gmail.com
 - 🔗 https://www.ramadhanibrahim.com/
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iamramahibrah.iamramahibrah)
+
+### Github Stats
+![Iiamramahibra github stats](https://github-readme-stats.vercel.app/api?username=iamramahibrah&count_private=true&theme=tokyonight&hide=contribs,prs)
+
