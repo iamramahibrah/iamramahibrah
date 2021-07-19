@@ -8,7 +8,7 @@ I'm Ramadhan Ibrahim an IT Security Specialist and Devop Engineer in Stackinfose
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamramahibrah/) 
 [![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/iamramahibrah)
 [![Instagram Badge](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamramahibrah)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/iamramahibrah@gmail.com)
+
 ###  Here is what i'm working on! 👋
 
 ### 🚀 Skill
@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/iamramahibrah/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The first person convicted of speeding was going eight mph
+
+### Bussiness
+- 💼 My Resume
+- 🎦 iamramahibrah@gmail.com
