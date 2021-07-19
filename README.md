@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/iamramahibrah/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The first person convicted of speeding was going eight mph
--->
