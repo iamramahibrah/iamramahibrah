@@ -4,9 +4,11 @@ I'm Ramadhan Ibrahim an IT Security Specialist and Devop Engineer in Stackinfose
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@iamramahibrah-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamramahibrah)](https://twitter.com/iamramahibrah)
-[![Linkedin Badge](https://img.shields.io/badge/-iamramahibrah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamramahibrah/) 
-
+![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamramahibrah/) 
+![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Instagram Badge](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ###  Here is what i'm working on! 👋
 
 
