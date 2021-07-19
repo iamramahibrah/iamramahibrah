@@ -5,7 +5,7 @@ I'm Ramadhan Ibrahim an IT Security Specialist and Devop Engineer in Stackinfose
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@iamramahibrah-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamramahibrah)](https://twitter.com/iamramahibrah)
-
+[![Linkedin Badge](https://img.shields.io/badge/-iamramahibrah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamramahibrah/) 
 
 ###  Here is what i'm working on! 👋
 
