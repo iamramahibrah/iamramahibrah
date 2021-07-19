@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 
 ### Bussiness
 - 💼 My Resume
-- 🎦 iamramahibrah@gmail.com
+- ✉️ iamramahibrah@gmail.com
+- 🔗 ramadhanibrahim.com
