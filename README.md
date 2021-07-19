@@ -2,7 +2,7 @@
 
 I'm Ramadhan Ibrahim an IT Security Specialist and Devop Engineer in Stackinfosec.
 
-:mailbox: Reach me out!
+### :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamramahibrah)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamramahibrah/) 
@@ -10,6 +10,13 @@ I'm Ramadhan Ibrahim an IT Security Specialist and Devop Engineer in Stackinfose
 [![Instagram Badge](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamramahibrah)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/iamramahibrah@gmail.com)
 ###  Here is what i'm working on! 👋
+
+### 🚀 Skill
+![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue-JS Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Djago Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MYSQL Bdge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit)
 
 
 Here are some ideas to get you started:
