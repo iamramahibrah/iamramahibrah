@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 ### Github Stats
 ![Iiamramahibra github stats](https://github-readme-stats.vercel.app/api?username=iamramahibrah&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+[![Ramadhan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamramahibrah&theme=blue-green)](https://github.com/iamramahibrah/github-readme-stats)
+
+
 
 
 
